@@ -1,0 +1,10 @@
+name: SimpleFly
+main: NotBellwa\SimpleFly\Main
+version: 0.0.1
+api:  3.14.1
+description: "A simple fly command"
+author: NotBellwa
+commands:
+  fly:
+    description: "toggle Fly"
+    permission: "fly.command"
